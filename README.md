@@ -1,1 +1,1 @@
-# JQ_Sass_Bs
+# Just a simple shopping website with bootstrap, saas & jquery
